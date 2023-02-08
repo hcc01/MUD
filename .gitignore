@@ -1,0 +1,11 @@
+bin/
+lib/
+*.exe
+*.dll
+Debug/
+
+Release/
+!debug/room/
+!debug/area/
+!debug/user/
+!debug/object/
